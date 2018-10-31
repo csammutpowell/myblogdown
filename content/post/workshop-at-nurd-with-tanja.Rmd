@@ -1,0 +1,11 @@
+---
+title: Workshop at NURD with Tanja
+author: DataTeka
+date: '2018-10-31'
+slug: workshop-at-nurd-with-tanja
+categories:
+  - R
+tags:
+  - R Markdown
+---
+![](/post/goldfish.jpg)
